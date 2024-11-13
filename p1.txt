@@ -6,4 +6,8 @@ along with revert
 >>>>>>> 0d120f0 (first commit)
 =======
 acharya
+<<<<<<< HEAD
 >>>>>>> 4f33810 (third commit)
+=======
+institute
+>>>>>>> 002717b (fourth commit)
