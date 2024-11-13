@@ -1,2 +1,5 @@
 learning cherry pick
+<<<<<<< HEAD
 along with revert
+=======
+>>>>>>> 0d120f0 (first commit)
