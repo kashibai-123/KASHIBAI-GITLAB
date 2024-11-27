@@ -1,5 +1,3 @@
 ALL IS WELL
-<<<<<<< HEAD
-WORK IS WORSHIP
-=======
->>>>>>> feature
+WORK IS WORKSHIP
+KASHIBAI
