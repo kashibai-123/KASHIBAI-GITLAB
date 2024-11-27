@@ -1,2 +1,5 @@
 ALL IS WELL
+<<<<<<< HEAD
 WORK IS WORSHIP
+=======
+>>>>>>> feature
